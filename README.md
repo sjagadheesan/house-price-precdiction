@@ -23,14 +23,3 @@ The workflow covers loading a dataset, performing exploratory data analysis (EDA
 - Scatter plots & regression lines  
 - Distribution plots for feature analysis  
 
-## ⚙️ Installation
-```bash
-# Clone the repository
-git clone https://github.com/your-username/mini_project.git
-
-# Navigate into the project folder
-cd mini_project
-
-# Install required dependencies
-pip install -r requirements.txt
-
